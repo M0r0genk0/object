@@ -1,0 +1,11 @@
+.card {
+    background-color: rgb(127, 231, 231);
+    border-color: black;
+}
+.card-header{
+    border-bottom: 10px black;
+}
+
+hr{
+   background-color: black;
+}
